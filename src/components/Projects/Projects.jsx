@@ -35,7 +35,7 @@ const Projects = () => {
       </h2>
 
       <div className="app__work-filter">
-        {["React JS", "Node/Express JS", "Vanilla Javascript", "All"].map(
+        {["React JS", "Node/Express JS", "Vanilla JavaScript", "All"].map(
           (item, index) => (
             <div
               key={index}
