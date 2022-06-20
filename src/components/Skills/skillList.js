@@ -10,7 +10,11 @@ const skillList = [
     icon: images.css,
   },
   {
-    name: "Javascript",
+    name: "Sass",
+    icon: images.sass,
+  },
+  {
+    name: "JavaScript",
     icon: images.javascript,
   },
   {

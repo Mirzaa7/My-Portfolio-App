@@ -1,5 +1,6 @@
 import cpp from "../assets/cpp.png";
 import css from "../assets/css.png";
+import sass from "../assets/sass.png";
 
 import git from "../assets/git.png";
 
@@ -28,6 +29,7 @@ import circle from "../assets/circle.svg";
 export default {
   cpp,
   css,
+  sass,
   git,
   html,
   javascript,
